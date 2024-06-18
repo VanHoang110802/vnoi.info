@@ -1,0 +1,6 @@
+|NAME|AC|
+|---|:---:|
+|TRUY VẾT|EMPTY|
+|NĂNG LƯỢNG MẶT TRỜI|EMPTY|
+|CẦU KÍNH|EMPTY|
+|SẠC ẮC QUY|EMPTY|

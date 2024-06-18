@@ -1,0 +1,6 @@
+|NAME|AC|
+|---|:---:|
+|BẤT BIẾN ĐẠI SỐ|EMPTY|
+|KHU CÔNG NGHIỆP|EMPTY|
+|THU HOẠCH NGHÊU|EMPTY|
+|ĐƯỜNG KÍNH|EMPTY|
